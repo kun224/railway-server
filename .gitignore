@@ -1,0 +1,12 @@
+# Windows 시스템 폴더 무시
+AppData/
+Documents/
+Cookies/
+Recent/
+Local Settings/
+NetHood/
+PrintHood/
+SendTo/
+Templates/
+My Documents/
+"시작 메뉴"/

@@ -1,0 +1,17 @@
+{
+  "name": "railway-server",
+  "version": "1.0.0",
+  "description": "Railway 배포용 Node.js 서버 코드",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "puppeteer": "^22.8.2"
+  },
+  "engines": {
+    "node": "22.12.0"
+  }
+}
